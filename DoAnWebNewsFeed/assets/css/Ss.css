@@ -1,0 +1,83 @@
+﻿
+
+
+.sub {
+    padding: 10px;
+    background-color: rgba(255, 84, 100, 0.17);
+    width: 366px;
+    margin: 0 auto;
+    border: 1px solid #fff;
+    cursor: pointer;
+    color: white;
+    display: block;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: 'Poiret One', cursive;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    margin-top:20px;
+}
+input[type="submit"] {
+	padding: 15px;
+    background-color: rgba(255, 84, 100, 0.17);
+    width:200px;
+    margin: 0 auto;
+    border: 1px solid #fff;
+    cursor: pointer;
+    color: white;
+    display: block;
+    font-size: 20px;
+    font-weight:bold;
+	font-family: 'Poiret One', cursive;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    margin-top:20px;
+}
+input[type="submit"]:hover {
+	background-color:#6f1c21;
+	color:white;
+	border:1px solid #6f1c21;
+}
+.vui 
+{
+	
+	border-radius: 0px !important;
+	color: white !important;
+	border: 2px !important;
+	
+	
+}
+.form-controla {
+   
+    
+    color: #000;
+    outline: none;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    /* line-height: 25px; */
+    padding: 5px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.49);
+    -webkit-appearance: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: #fff;
+    margin-top:20px;
+}
+.agile-form {
+    
+    margin: 0 auto;
+    float: left;
+    background: rgba(255, 255, 255, 0.75);
+    padding: 2em;
+    margin-right: 5%;
+    box-sizing: border-box;
+}
+
+

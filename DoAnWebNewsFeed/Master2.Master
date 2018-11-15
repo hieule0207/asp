@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master2.master.cs" Inherits="DoAnWebNewsFeed.Master2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link href="assets/css/ss2.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/font.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/li-scroller.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/slick.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/jquery.fancybox.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/theme.css"/>
+<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+<link href="assets/css/fonts/font-awesome.min.css" rel="stylesheet" />
+<link href="assets/css/demo.css" rel="stylesheet" />
+
+    <!--[if lt IE 9]>
+<script src="../assets/js/html5shiv.min.js"></script>
+<script src="../assets/js/respond.min.js"></script>
+<![endif]-->
+</head>
+<body style="background-image:url(assets/images/2.jpg);max-width:100%;background-position:center; height:100%;" >
+    <form id="form1" runat="server">
+    <div>
+      <!------------->
+        <div id="preloader" >
+  <div id="status">&nbsp;</div>
+</div>
+      <!------------->
+        <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+      <!------------->
+        <div class="container"> 
+      <!------header------->
+           
+        <header id="header">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="header_top">
+          <div class="header_top_left">
+            <ul class="top_nav">
+              <li><a href="Index.aspx">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="LienHe.aspx">Contact</a></li>
+              <li><a href="FormDangky.aspx">Đăng kí</a></li>
+              <li><a href="FormLogin.aspx">Đăng nhập</a></li>
+            </ul>
+          </div>
+          <div class="header_top_right">
+            <p>Friday, December 05, 2045</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+      <!------header------------->
+      <!------navArea------------>
+        
+      <!------navArea------------>
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+      <!------newsSection------------>  
+        <footer id="footer">
+   
+<!------footer bottom------>
+    <div class="footer_bottom">
+      <p class="copyright">Copyright &copy; 2045 <a href="index.aspx">NewsFeed</a></p>
+      <p class="developer">Developed By Wpfreeware</p>
+    </div>
+<!------footer bottom------>
+  </footer>
+      <!------newsSection------------>  
+
+        </div>    
+    </div>
+<script src="assets/js/jquery.min.js"></script> 
+<script src="assets/js/wow.min.js"></script> 
+<script src="assets/js/bootstrap.min.js"></script> 
+<script src="assets/js/slick.min.js"></script> 
+<script src="assets/js/jquery.li-scroller.1.0.js"></script> 
+<script src="assets/js/jquery.newsTicker.min.js"></script> 
+<script src="assets/js/jquery.fancybox.pack.js"></script> 
+<script src="assets/js/custom.js"></script>
+        <script src="assets/js/jquery.leanModal.min_.js"></script>    
+        <script src="assets/js/jquerym.min.js"></script>
+    </form>
+</body>
+</html>
+ 

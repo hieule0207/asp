@@ -1,0 +1,14 @@
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\bin\Debug\DAO.dll
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\bin\Debug\DAO.pdb
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\bin\Debug\DTO.dll
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\bin\Debug\DTO.pdb
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\obj\Debug\DAO.dll
+D:\doanwebhkp\DoAnWebNewsFeed\DAO\obj\Debug\DAO.pdb
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\bin\Debug\DAO.dll
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\bin\Debug\DAO.pdb
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\bin\Debug\DTO.dll
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\bin\Debug\DTO.pdb
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\obj\Debug\DAO.dll
+C:\Users\Lunar\Downloads\DoAnWebNewsFeed2\DoAnWebNewsFeed\DAO\obj\Debug\DAO.pdb

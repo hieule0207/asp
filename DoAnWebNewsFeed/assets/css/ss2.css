@@ -1,0 +1,41 @@
+﻿body {
+    
+    
+}
+ul.icon-links {
+	margin-top: 20px;
+}
+
+ul.icon-links li a span.fa {
+    color: #223f99;
+    background: #fff;
+    font-size: 1em;
+    line-height: 2em;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    width: 32px;
+    height: 32px;
+    border: 2px solid #fff;
+}
+ul.icon-links li a span.fa:hover {
+	color: #fff;
+	background: #223f99;
+}
+ul.icon-links li {
+    margin: 0 0.5em;
+    display: inline-block;
+}
+ul {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    
+}
+a {
+	display: inline-block;
+}
